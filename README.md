@@ -1,0 +1,1 @@
+# Solarizacao-na-Imagem
