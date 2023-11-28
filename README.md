@@ -1,5 +1,8 @@
 # Solariza and Merge
 
+![IADE_Logotipo](https://github.com/alanocb/Solarizacao-na-Imagem/assets/99679262/c3925536-ba2d-4737-9484-3a3624ace887)
+
+
 Um projeto que a partir de uma imagem, cria imagens solarizadas utilizando quatro técnicas distintas e as junta as em uma única imagem.
 
 ## Descrição
