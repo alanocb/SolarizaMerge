@@ -18,7 +18,7 @@ O SolarizaMerge é uma ferramenta que utiliza algoritmos de solarização de ima
 
 A seguir estão exemplos das quatro imagens geradas com cada técnica de solarização, bem como a imagem resultante da combinação das mesmas.
 
-##Imagem Exemplo
+## Imagem Exemplo
 
 ![campoGirassois](https://github.com/alanocb/Solarizacao-na-Imagem/assets/99679262/5680df04-17e8-47ca-8cea-b22104848827)
 
