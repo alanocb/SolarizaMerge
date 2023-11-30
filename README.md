@@ -20,6 +20,8 @@ A seguir estão exemplos das quatro imagens geradas com cada técnica de solariz
 
 ## Imagem Exemplo
 
+### A eternidade do devaneio, Van Gogh
+
 ![campoGirassois](https://github.com/alanocb/Solarizacao-na-Imagem/assets/99679262/5680df04-17e8-47ca-8cea-b22104848827)
 
 ### Técnica 1: [Solarize Dark]
